@@ -12,3 +12,17 @@ D:\PROGRAMOWANIE\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver1.cspro
 D:\PROGRAMOWANIE\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver1.csproj.CoreCompileInputs.cache
 D:\PROGRAMOWANIE\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.exe
 D:\PROGRAMOWANIE\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.pdb
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.exe.config
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.exe
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.pdb
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver1.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmParametry.resources
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmPodglad.resources
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmMenu.resources
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmPomoc.resources
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmWykres.resources
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.Properties.Resources.resources
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver1.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.exe
+C:\Users\mateu\Desktop\EXPORT\Inzynierka_ver1\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.pdb

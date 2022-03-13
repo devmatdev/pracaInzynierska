@@ -29,18 +29,18 @@ namespace Inzynierka_ver0
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series7 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title1 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.Title title2 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series17 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series18 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series19 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series20 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series21 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series22 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series23 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series24 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title5 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.Title title6 = new System.Windows.Forms.DataVisualization.Charting.Title();
             this.crtWykresy = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.txtSciezkaPliku1 = new System.Windows.Forms.TextBox();
             this.lblSciezka1 = new System.Windows.Forms.Label();
@@ -81,8 +81,8 @@ namespace Inzynierka_ver0
             this.lblSciezka2 = new System.Windows.Forms.Label();
             this.lblSciezka3 = new System.Windows.Forms.Label();
             this.txtSciezkaPliku2 = new System.Windows.Forms.TextBox();
-            this.txtSciezkaPliku3 = new System.Windows.Forms.TextBox();
             this.ofdSciezkaPliku1 = new System.Windows.Forms.OpenFileDialog();
+            this.txtSciezkaPliku3 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.crtWykresy)).BeginInit();
             this.grbMenu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numIleKrzywych)).BeginInit();
@@ -93,74 +93,74 @@ namespace Inzynierka_ver0
             this.crtWykresy.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            chartArea1.AxisX.IsMarginVisible = false;
-            chartArea1.AxisX.MinorTickMark.Enabled = true;
-            chartArea1.AxisX.ScaleBreakStyle.Enabled = true;
-            chartArea1.AxisX.TitleFont = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            chartArea1.CursorX.IsUserEnabled = true;
-            chartArea1.CursorX.IsUserSelectionEnabled = true;
-            chartArea1.Name = "ChartArea1";
-            this.crtWykresy.ChartAreas.Add(chartArea1);
+            chartArea3.AxisX.IsMarginVisible = false;
+            chartArea3.AxisX.MinorTickMark.Enabled = true;
+            chartArea3.AxisX.ScaleBreakStyle.Enabled = true;
+            chartArea3.AxisX.TitleFont = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            chartArea3.CursorX.IsUserEnabled = true;
+            chartArea3.CursorX.IsUserSelectionEnabled = true;
+            chartArea3.Name = "ChartArea1";
+            this.crtWykresy.ChartAreas.Add(chartArea3);
             this.crtWykresy.Cursor = System.Windows.Forms.Cursors.Cross;
-            legend1.Name = "Legend1";
-            this.crtWykresy.Legends.Add(legend1);
+            legend3.Name = "Legend1";
+            this.crtWykresy.Legends.Add(legend3);
             this.crtWykresy.Location = new System.Drawing.Point(10, 12);
             this.crtWykresy.Name = "crtWykresy";
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series1.Legend = "Legend1";
-            series1.Name = "Pomiary";
-            series1.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series2.Legend = "Legend1";
-            series2.Name = "Pomiary2";
-            series3.ChartArea = "ChartArea1";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series3.Legend = "Legend1";
-            series3.Name = "Pomiary3";
-            series4.ChartArea = "ChartArea1";
-            series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series4.Legend = "Legend1";
-            series4.Name = "Pomiary4";
-            series5.ChartArea = "ChartArea1";
-            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series5.Legend = "Legend1";
-            series5.Name = "SkorygowanePomiary";
-            series6.ChartArea = "ChartArea1";
-            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series6.Legend = "Legend1";
-            series6.Name = "SkorygowanePomiary2";
-            series7.ChartArea = "ChartArea1";
-            series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series7.Legend = "Legend1";
-            series7.Name = "SkorygowanePomiary3";
-            series8.ChartArea = "ChartArea1";
-            series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series8.Legend = "Legend1";
-            series8.Name = "SkorygowanePomiary4";
-            this.crtWykresy.Series.Add(series1);
-            this.crtWykresy.Series.Add(series2);
-            this.crtWykresy.Series.Add(series3);
-            this.crtWykresy.Series.Add(series4);
-            this.crtWykresy.Series.Add(series5);
-            this.crtWykresy.Series.Add(series6);
-            this.crtWykresy.Series.Add(series7);
-            this.crtWykresy.Series.Add(series8);
+            series17.ChartArea = "ChartArea1";
+            series17.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series17.Legend = "Legend1";
+            series17.Name = "Pomiary";
+            series17.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            series18.ChartArea = "ChartArea1";
+            series18.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series18.Legend = "Legend1";
+            series18.Name = "Pomiary2";
+            series19.ChartArea = "ChartArea1";
+            series19.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series19.Legend = "Legend1";
+            series19.Name = "Pomiary3";
+            series20.ChartArea = "ChartArea1";
+            series20.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series20.Legend = "Legend1";
+            series20.Name = "Pomiary4";
+            series21.ChartArea = "ChartArea1";
+            series21.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series21.Legend = "Legend1";
+            series21.Name = "SkorygowanePomiary";
+            series22.ChartArea = "ChartArea1";
+            series22.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series22.Legend = "Legend1";
+            series22.Name = "SkorygowanePomiary2";
+            series23.ChartArea = "ChartArea1";
+            series23.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series23.Legend = "Legend1";
+            series23.Name = "SkorygowanePomiary3";
+            series24.ChartArea = "ChartArea1";
+            series24.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series24.Legend = "Legend1";
+            series24.Name = "SkorygowanePomiary4";
+            this.crtWykresy.Series.Add(series17);
+            this.crtWykresy.Series.Add(series18);
+            this.crtWykresy.Series.Add(series19);
+            this.crtWykresy.Series.Add(series20);
+            this.crtWykresy.Series.Add(series21);
+            this.crtWykresy.Series.Add(series22);
+            this.crtWykresy.Series.Add(series23);
+            this.crtWykresy.Series.Add(series24);
             this.crtWykresy.Size = new System.Drawing.Size(1157, 565);
             this.crtWykresy.TabIndex = 0;
             this.crtWykresy.TabStop = false;
             this.crtWykresy.Text = "chart1";
-            title1.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
-            title1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            title1.Name = "tltCzasProbkowania";
-            title1.Text = "Czas  [ms]";
-            title2.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Left;
-            title2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            title2.Name = "tltCisnienie";
-            title2.Text = "Cisnienie [MPa]";
-            this.crtWykresy.Titles.Add(title1);
-            this.crtWykresy.Titles.Add(title2);
+            title5.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
+            title5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            title5.Name = "tltCzasProbkowania";
+            title5.Text = "Czas  [ms]";
+            title6.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Left;
+            title6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            title6.Name = "tltCisnienie";
+            title6.Text = "Cisnienie [MPa]";
+            this.crtWykresy.Titles.Add(title5);
+            this.crtWykresy.Titles.Add(title6);
             this.crtWykresy.Click += new System.EventHandler(this.chartWykres_Click);
             // 
             // txtSciezkaPliku1
@@ -170,6 +170,7 @@ namespace Inzynierka_ver0
             this.txtSciezkaPliku1.Name = "txtSciezkaPliku1";
             this.txtSciezkaPliku1.Size = new System.Drawing.Size(215, 26);
             this.txtSciezkaPliku1.TabIndex = 2;
+            this.txtSciezkaPliku1.Text = "50.txt";
             // 
             // lblSciezka1
             // 
@@ -321,6 +322,7 @@ namespace Inzynierka_ver0
             this.txtCisnienieZaplonu.Name = "txtCisnienieZaplonu";
             this.txtCisnienieZaplonu.Size = new System.Drawing.Size(41, 26);
             this.txtCisnienieZaplonu.TabIndex = 26;
+            this.txtCisnienieZaplonu.Text = "3";
             // 
             // label1
             // 
@@ -337,6 +339,7 @@ namespace Inzynierka_ver0
             this.txtGruboscWarstwyPalnej.Name = "txtGruboscWarstwyPalnej";
             this.txtGruboscWarstwyPalnej.Size = new System.Drawing.Size(78, 26);
             this.txtGruboscWarstwyPalnej.TabIndex = 24;
+            this.txtGruboscWarstwyPalnej.Text = "0,175e-3";
             // 
             // tltKrok
             // 
@@ -399,6 +402,7 @@ namespace Inzynierka_ver0
             this.txtProbkowanie2.Name = "txtProbkowanie2";
             this.txtProbkowanie2.Size = new System.Drawing.Size(112, 26);
             this.txtProbkowanie2.TabIndex = 20;
+            this.txtProbkowanie2.Text = "25e-6";
             // 
             // txtDelta2
             // 
@@ -407,6 +411,7 @@ namespace Inzynierka_ver0
             this.txtDelta2.Name = "txtDelta2";
             this.txtDelta2.Size = new System.Drawing.Size(43, 26);
             this.txtDelta2.TabIndex = 20;
+            this.txtDelta2.Text = "100";
             // 
             // txtProbkowanie1
             // 
@@ -415,6 +420,7 @@ namespace Inzynierka_ver0
             this.txtProbkowanie1.Name = "txtProbkowanie1";
             this.txtProbkowanie1.Size = new System.Drawing.Size(112, 26);
             this.txtProbkowanie1.TabIndex = 20;
+            this.txtProbkowanie1.Text = "25e-6";
             // 
             // txtDelta
             // 
@@ -423,6 +429,7 @@ namespace Inzynierka_ver0
             this.txtDelta.Name = "txtDelta";
             this.txtDelta.Size = new System.Drawing.Size(43, 26);
             this.txtDelta.TabIndex = 20;
+            this.txtDelta.Text = "50";
             // 
             // numIleKrzywych
             // 
@@ -509,6 +516,7 @@ namespace Inzynierka_ver0
             this.txtNumerWiersza.Name = "txtNumerWiersza";
             this.txtNumerWiersza.Size = new System.Drawing.Size(70, 26);
             this.txtNumerWiersza.TabIndex = 1;
+            this.txtNumerWiersza.Text = "16";
             // 
             // btnPodglad
             // 
@@ -582,6 +590,11 @@ namespace Inzynierka_ver0
             this.txtSciezkaPliku2.Name = "txtSciezkaPliku2";
             this.txtSciezkaPliku2.Size = new System.Drawing.Size(215, 26);
             this.txtSciezkaPliku2.TabIndex = 4;
+            this.txtSciezkaPliku2.Text = "100.txt";
+            // 
+            // ofdSciezkaPliku1
+            // 
+            this.ofdSciezkaPliku1.FileName = "openFileDialog1";
             // 
             // txtSciezkaPliku3
             // 
@@ -591,10 +604,6 @@ namespace Inzynierka_ver0
             this.txtSciezkaPliku3.Size = new System.Drawing.Size(215, 26);
             this.txtSciezkaPliku3.TabIndex = 2;
             this.txtSciezkaPliku3.Visible = false;
-            // 
-            // ofdSciezkaPliku1
-            // 
-            this.ofdSciezkaPliku1.FileName = "openFileDialog1";
             // 
             // frmWykres
             // 
@@ -633,7 +642,6 @@ namespace Inzynierka_ver0
         private System.Windows.Forms.Label lblSciezka4;
         private System.Windows.Forms.TextBox txtSciezkaPliku4;
         private System.Windows.Forms.Label lblSciezka3;
-        private System.Windows.Forms.TextBox txtSciezkaPliku3;
         private System.Windows.Forms.Button btnBrowse3;
         private System.Windows.Forms.Button btnBrowse4;
         private System.Windows.Forms.NumericUpDown numIleKrzywych;
@@ -657,5 +665,6 @@ namespace Inzynierka_ver0
         private System.Windows.Forms.CheckBox chbEksport2;
         private System.Windows.Forms.CheckBox chbEksport1;
         private System.Windows.Forms.Button btnPomoc;
+        private System.Windows.Forms.TextBox txtSciezkaPliku3;
     }
 }
