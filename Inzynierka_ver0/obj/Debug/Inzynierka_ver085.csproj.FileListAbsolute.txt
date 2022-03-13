@@ -1,0 +1,41 @@
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.exe.config
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.exe
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.pdb
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmParametry.resources
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmPodglad.resources
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmMenu.resources
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmWykres.resources
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.Properties.Resources.resources
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.exe
+D:\PROGRAMOWANIE\Inzynierka_ver085 dodanie karty z wynikami\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.pdb
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.exe.config
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.exe
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.pdb
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmParametry.resources
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmPodglad.resources
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmMenu.resources
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmWykres.resources
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.Properties.Resources.resources
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.exe
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.pdb
+D:\PROGRAMOWANIE\Inzynierka_ver086\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmPomoc.resources
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.exe.config
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.exe
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\bin\Debug\Inzynierka_ver0.pdb
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmParametry.resources
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmPodglad.resources
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmMenu.resources
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmPomoc.resources
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.frmWykres.resources
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.Properties.Resources.resources
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver085.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.exe
+D:\PROGRAMOWANIE\Inzynierka_ver087-sprawdzenie\Inzynierka_ver0\obj\Debug\Inzynierka_ver0.pdb
